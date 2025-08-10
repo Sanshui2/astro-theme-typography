@@ -1,0 +1,9 @@
+---
+title: 我的第一篇文章
+pubDate: 2025-08-11
+categories: ['随笔']
+description: '这是我使用 Astro 和活版印字主题发布的第一篇博客文章！'
+---
+
+这里是您的文章正文。
+您可以在这里使用 Markdown 语法自由写作。
