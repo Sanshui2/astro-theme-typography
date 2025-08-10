@@ -1,12 +1,7 @@
-import type { UserConfig } from '~/types'
-
-// export const userConfig: Partial<UserConfig> = {
-//   // Override the default config here
-//   // site: { title: "講評世界" },
-//   // seo: { twitter: "@moeyua13" },
-// }
+import type { UserConfig } from './types'
 
 export default {
+  // socials 数组用于配置社交链接
   socials: [
     {
       name: 'github',
@@ -14,8 +9,8 @@ export default {
     },
   ],
 
+  // 网站信息
   site: {
-    // 这里是修正后的代码
     title: "Sanshui's blog", 
     author: 'Sanshui',
   },
